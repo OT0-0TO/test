@@ -1,2 +1,2 @@
 # test
-project descreption
+project description
